@@ -1,0 +1,15 @@
+C:\Users\aser\Desktop\LessonsC#\bin\Debug\net6.0\LessonsC#.exe
+C:\Users\aser\Desktop\LessonsC#\bin\Debug\net6.0\LessonsC#.deps.json
+C:\Users\aser\Desktop\LessonsC#\bin\Debug\net6.0\LessonsC#.runtimeconfig.json
+C:\Users\aser\Desktop\LessonsC#\bin\Debug\net6.0\LessonsC#.dll
+C:\Users\aser\Desktop\LessonsC#\bin\Debug\net6.0\LessonsC#.pdb
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.AssemblyInfoInputs.cache
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.AssemblyInfo.cs
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.dll
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\refint\LessonsC#.dll
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.pdb
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\LessonsC#.genruntimeconfig.cache
+C:\Users\aser\Desktop\LessonsC#\obj\Debug\net6.0\ref\LessonsC#.dll
